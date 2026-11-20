@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sergey Bochkarev 👋
 
-<!--
-**bockarevs-svg/bockarevs-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Data Analyst | SQL • Excel • Power BI
 
-Here are some ideas to get you started:
+I am developing my skills in data analytics: turning business questions 
+into clear metrics, reports, and actionable recommendations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- SQL: SELECT, WHERE, GROUP BY, JOIN, aggregate functions
+- Excel: pivot tables, formulas, data visualization
+- Power Query: data cleaning and preparation
+- Power BI: dashboards, KPIs, visual analytics
+- Git & GitHub: version control, documentation, portfolio
+
+## 💼 Experience
+
+Customer Support Specialist at MTS  
+Working remotely from Kemerovo, Russia.  
+Developing data analysis skills through SQL, Excel, Power Query, and Power BI.
+
+## 🎯 Currently learning
+
+- SQL for product and business metrics
+- Power BI and DAX
+- Power Query for data preparation
+- Practical analytics with real-world datasets
